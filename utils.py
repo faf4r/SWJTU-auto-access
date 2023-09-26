@@ -64,7 +64,7 @@ def login(username: str, password: str) -> requests.Session:
 
 
 if __name__ == '__main__':
-    username = '2022112275'
+    username = '202211****'
     password = '**************'
     ss, _ = login(username, password)
 
